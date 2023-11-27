@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elvish-ishaan
 - 👀 I’m interested in anything which is related to tech and which can make a positive effect on universe.
 -  Always looking for learning New and useful tech stacks.
-- 🌱 I’m currently learning backend  web devlopment with hands on experence of frontend web devlopment. 
+- 🌱 I’m currently learning MERN  web devlopment  hands on experence. 
 - 💞️ I’m looking to freely collaborate on web development related stuff.
 - 📫 How to reach me ...
 -  Email Me: ishaanelvish@gmail.com
